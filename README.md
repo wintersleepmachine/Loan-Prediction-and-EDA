@@ -9,3 +9,9 @@ This repository contains a jupyter notebook of exploring the different variables
  
  
 Using Sklearn ML API built a binary classifier to predict loan approval status. Acheived an accuracy rate of 91% and a precision of 89%. Used that model in a deployable ML full stack application to predict probability of loan approval status.
+
+## Preview
+
+![GitHub Logo](https://raw.githubusercontent.com/wintersleepmachine/Loan-Prediction-and-EDA/master/loanapproval%20graph.png)
+![GitHub Logo](https://raw.githubusercontent.com/wintersleepmachine/Loan-Prediction-and-EDA/master/loanapproval%20graph2.png)
+![GitHub Logo](https://raw.githubusercontent.com/wintersleepmachine/Loan-Prediction-and-EDA/master/loanapproval%20graph3.png)
