@@ -14,7 +14,7 @@ Using Sklearn ML API built a binary classifier to predict loan approval status. 
 
 ## Simple Loan Prediction Flask App
 
-Repository to flask app here https://github.com/wintersleepmachine/flask-app-loan-prediction
+Repository to flask app I built is here: https://github.com/wintersleepmachine/flask-app-loan-prediction
 
 ![](loanpredictiongif.gif)
 
